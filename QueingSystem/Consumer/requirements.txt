@@ -1,0 +1,6 @@
+awscli==1.25.22
+boto3==1.24.22
+botocore==1.27.22
+PyMySQL==1.0.2
+python-dateutil==2.8.2
+uk-postcode-validator==1.0.3
